@@ -1,13 +1,13 @@
 {
-  "name": "slimroms.github.io",
+  "name": "exynos5420.github.io",
   "version": "0.0.1",
-  "homepage": "slimroms.eu",
+  "homepage": "www.exynos5420.com",
   "authors": [
-    "Anthony King <anthonydking@slimroms.net>"
+    "Thomas Patry <thompatry@gmail.com>"
   ],
-  "description": "SlimRoms Website",
+  "description": "Exynos5420 Website",
   "keywords": [
-    "SlimRoms"
+    "Exynos5420"
   ],
   "license": "Apache2",
   "ignore": [
