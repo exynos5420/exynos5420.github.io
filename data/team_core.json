@@ -1,44 +1,16 @@
 [
   {
-    "name":"Anthony King",
-    "img":"https://github.com/cybojenix.png",
-    "username":"cybojenix",
-    "location":"UK",
-    "position":"Developer"
-  },
-  {
-    "name":"Daniel Koman",
-    "img":"images/team/dankoman.png",
-    "username":"dankoman",
+    "name":"Sean Hoyt",
+    "img":"https://github.com/deadman96385.png",
+    "username":"deadman96385",
     "location":"USA",
-    "position":"Developer & Themer"
+    "position":"Lead Developer and Device Maintainer klimtlte (SM-T705)"
   },
   {
-    "name": "Dimitris Mantzouranis",
-    "img": "https://github.com/dexter93.png",
-    "username": "dexter93",
-    "location": "Greece",
-    "position": "Developer"
-  },
-  {
-    "name":"Griffin Millender",
-    "img":"images/team/gmillz.png",
-    "username":"gmillz",
+    "name":"Thomas Patry",
+    "img":"https://github.com/thompatry.png",
+    "username":"thompatry",
     "location":"USA",
-    "position":"Developer"
-  },
-  {
-    "name":"Josue Rivera",
-    "img":"images/team/prbassplayer.png",
-    "username":"prbassplayer",
-    "location":"Puerto Rico",
-    "position":"Development Coordinator and Maintainer for Various Devices"
-  },
-  {
-    "name":"Nicholas Flintham",
-    "img":"https://github.com/Flinny.png",
-    "username":"Flinny",
-    "location":"United Kingdom",
-    "position":"System Administrator and HTC One Family Maintainer"
+    "position":"System Administrator, Developer, and Device Maintainer v1awifi (SM-P900) and v2awifi (SM-T900)"
   }
 ]
