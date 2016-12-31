@@ -1,8 +1,8 @@
 [
   {
     "name": "Gary Crutcher",
-    "img": "",
-    "username": "",
+    "img": "https://github.com/gcrutchr.png",
+    "username": "gcrutchr",
     "location": "Thailand",
     "position": "Device Maintainer, SM-P901 (v1a3g)"
   },
@@ -11,7 +11,7 @@
     "img":"https://github.com/Joshndroid.png",
     "username":"Joshndroid",
     "location":"Austrailia",
-    "position": "Device Maintainer, SM-600 n12awifi)"
+    "position": "Device Maintainer, SM-600 (n2awifi)"
   },
   {
     "name": "Joshua Lacruz",
