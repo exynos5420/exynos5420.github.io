@@ -25,14 +25,20 @@
   },
   {
     "manufacturer":"Samsung",
-    "devicename":"chagall3G",
-    "description":"Galaxy Tab S 10.5 3G (SM-T807T)",
+    "devicename":"chagall3g",
+    "description":"Galaxy Tab S 10.5 LTE T-Mobile Variant (SM-T807T)",
     "img":"images/phone/chagall3g.png"
   },
   {
     "manufacturer":"Samsung",
     "devicename":"n1awifi",
     "description":"Galaxy Note 10.1 Wifi (SM-P600)",
+    "img":"images/phone/n1awifi.png"
+  },
+  {
+    "manufacturer":"Samsung",
+    "devicename":"n1a3g",
+    "description":"Galaxy Note 10.1 3G (SM-P601)",
     "img":"images/phone/n1awifi.png"
   },
   {
