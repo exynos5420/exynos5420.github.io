@@ -1,16 +1,23 @@
 [
   {
-    "name": "Joshua Lacruz",
-    "img": "",
-    "username": "",
-    "location": "",
-    "position": "Device Maintainer, SM-T520 (n2awifi)"
-  },
-  {
-    "name": "Gary",
+    "name": "Gary Crutcher",
     "img": "",
     "username": "",
     "location": "Thailand",
     "position": "Device Maintainer, SM-P901 (v1a3g)"
+  },
+  {
+    "name": "Josh",
+    "img":"https://github.com/Joshndroid.png",
+    "username":"Joshndroid",
+    "location":"Austrailia",
+    "position": "Device Maintainer, SM-600 n12awifi)"
+  },
+  {
+    "name": "Joshua Lacruz",
+    "img": "",
+    "username": "",
+    "location": "Germany",
+    "position": "Device Maintainer, SM-T520 (n2awifi)"
   }
 ]

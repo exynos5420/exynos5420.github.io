@@ -1,5 +1,40 @@
 [
   {
+    "name":"Joshua (Wiley)",
+    "img":"https://github.com/orion116.png",
+    "username":"orion116",
+    "location":"USA",
+    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Martin",
+    "img":"https://github.com/tincho5588.png",
+    "username":"tincho5588",
+    "location":"Argentina",
+    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Moshe",
+    "img":"https://github.com/mosimchah.png",
+    "username":"mosimchah",
+    "location":"USA",
+    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Paul Keith",
+    "img":"https://github.com/javelinanddart.png",
+    "username":"javelinanddart",
+    "location":"USA",
+    "position":"Developer and Device Maintainer klimtwifi (SM-T700)"
+  },
+  {
+    "name":"Roberto Gibellini",
+    "img":"https://github.com/rgib.png",
+    "username":"rgib",
+    "location":"Italy",
+    "position":"Developer and Device Maintainer klimtlte (SM-P705)"
+  },
+  {
     "name":"Sean Hoyt",
     "img":"https://github.com/deadman96385.png",
     "username":"deadman96385",
@@ -7,10 +42,38 @@
     "position":"Lead Developer and Device Maintainer klimtlte (SM-T705)"
   },
   {
+    "name":"Shev",
+    "img":"https://github.com/ShevT.png",
+    "username":"ShevT",
+    "location":"Russia",
+    "position":"Developer and Device Maintainer n1a3g (SM-P601)"
+  },
+  {
+    "name":"Sinisa",
+    "img":"https://github.com/ssehovic.png",
+    "username":"ssehovic",
+    "location":"Croatia",
+    "position":"Developer and Device Maintainer chagalllte (SM-T805)"
+  },
+  {
     "name":"Thomas Patry",
     "img":"https://github.com/thompatry.png",
     "username":"thompatry",
     "location":"USA",
     "position":"System Administrator, Developer, and Device Maintainer v1awifi (SM-P900) and v2awifi (SM-T900)"
+  },
+  {
+    "name":"Tiago Campos",
+    "img":"https://github.com/zakooz.png",
+    "username":"zakooz",
+    "location":"USA",
+    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Vidir Jonsson",
+    "img":"https://github.com/sigma-1.png",
+    "username":"sigma-1",
+    "location":"Iceland",
+    "position":"Kernel Developer and Device Maintainer n1awifi (SM-P600)"
   }
 ]
