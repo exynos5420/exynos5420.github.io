@@ -1,5 +1,5 @@
 <!--
-Copyright 2015 SlimRoms
+Copyright 2016 Exynos5420 Roms
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -16,19 +16,19 @@ limitations under the License.
 
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="paper-card.html">
-<link rel="import" href="slim-marked.html">
+<link rel="import" href="exynos5420-marked.html">
 
-<dom-module id="slim-post">
+<dom-module id="exynos5420-post">
     <template>
         <paper-card>
             <h2 class="title">{{title}}</h2>
             <h3 class="subtitle">{{subtitle}}</h3>
-            <slim-marked markdown="{{computedContent}}"></slim-marked>
+            <exynos5420-marked markdown="{{computedContent}}"></exynos5420-marked>
         </paper-card>
     </template>
     <script>
         Polymer({
-            is: 'slim-post',
+            is: 'exynos5420-post',
             properties: {
                 content: Object,
 
