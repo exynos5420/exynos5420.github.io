@@ -7,11 +7,11 @@
     "position": "Device Maintainer, SM-P901 (v1a3g)"
   },
   {
-    "name": "Josh",
+    "name": "Joshie",
     "img":"https://github.com/Joshndroid.png",
     "username":"Joshndroid",
     "location":"Austrailia",
-    "position": "Device Maintainer, SM-600 (n1awifi)"
+    "position": "Device Maintainer, SM-P600 (n1awifi)"
   },
   {
     "name": "Joshua Lacruz",
@@ -19,5 +19,12 @@
     "username": "",
     "location": "Germany",
     "position": "Device Maintainer, SM-T520 (n2awifi)"
+  },
+  {
+    "name":"Shawn Wahi",
+    "img":"https://github.com/shawnwahi.png",
+    "username":"shawnwahi",
+    "location":"USA",
+    "position":"Developer"
   }
 ]
