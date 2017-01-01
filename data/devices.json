@@ -19,27 +19,27 @@
   },  
   {
     "manufacturer":"Samsung",
-    "devicename":"chagalltte",
+    "devicename":"chagalllte",
     "description":"Galaxy Tab S 10.5 LTE (SM-T805)",
-    "img":"images/phone/chagalltte.png"
+    "img":"images/phone/chagalllte.png"
   },
   {
     "manufacturer":"Samsung",
-    "devicename":"chagall3g",
+    "devicename":"chagalllttmo",
     "description":"Galaxy Tab S 10.5 LTE T-Mobile Variant (SM-T807T)",
-    "img":"images/phone/chagall3g.png"
+    "img":"images/phone/chagallltetmo.png"
   },
   {
     "manufacturer":"Samsung",
     "devicename":"n1awifi",
-    "description":"Galaxy Note 10.1 Wifi (SM-P600)",
+    "description":"Galaxy Note 10.1 2014 Wifi (SM-P600)",
     "img":"images/phone/n1awifi.png"
   },
   {
     "manufacturer":"Samsung",
     "devicename":"n1a3g",
-    "description":"Galaxy Note 10.1 3G (SM-P601)",
-    "img":"images/phone/n1awifi.png"
+    "description":"Galaxy Note 10.1 2014 3G (SM-P601)",
+    "img":"images/phone/n1a3g.png"
   },
   {
     "manufacturer":"Samsung",
@@ -51,13 +51,13 @@
     "manufacturer":"Samsung",
     "devicename":"v1awifi",
     "description":"Galaxy Note 12.1 Wifi (SM-P900)",
-    "img":"images/phone/v1awifi.png"
+    "img":"images/phone/v1awifi.jpg"
   },
   {
     "manufacturer":"Samsung",
     "devicename":"v1a3g",
     "description":"Galaxy Note 12.1 3G (SM-P901)",
-    "img":"images/phone/v1a3g.png"
+    "img":"images/phone/v1a3g.jpg"
   },
   {
     "manufacturer":"Samsung",
