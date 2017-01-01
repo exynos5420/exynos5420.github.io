@@ -4,29 +4,29 @@
     "date": "Saturday, 31 December, 2016",
     "content": [
       "Hello Cyberspace!"
-      "I bet you're wondering "who are the people in the exynos5420 team?""
-      "First off, here's the main guys (not in any particular order):"
-  "1.Sean Hoyt (deadman96385) - klimtlte maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth"
-  "2.Joshua Wiley (Orion116) - co n1awifi maintainer, handles OMS/substratum for LD"
-  "3.Moshe Barash (mosimchah) - co n1awifi maintainer, assistant lead dev for LD"
-  "4.Paul Keith (javelinanddart) - infared blaster maintainer, klimtwifi maintainer, Great dev, works on tons of stuff, has tons of knowledge to share"
-  "5.Martin (tincho5588) - ha3g maintainer, lead dev for DeathlyAdiutor, and does tons of kernel work"
-  "6.Tiago Campos (zakooz) - camera maintainer, co n1awifi maintainer, does tons of low level work for all of our devices, if your camera works, thank this guy"
-  "7.Vidir Jonsson (Andmoreagain, sigma-1) - co n1awifi maintainer, does so much crazy low level kernel work that it'll make your head spin"
-  "8.Sinisa (ssehovic,thermskin) - chagalllte maintainer, does lots of work for LD"
-  "9.Thomas Patry (thompatry) - v1awifi, and v2awifi maintainer, he's also our system admin, and does tons of work on the common tree and kernel"
-  "10.Shev (ShevT) - n1a3g maintainer, does a whole lot of kernel work, and saved the n1awifi team on mm"
-  "11.Roberto Gibellini (rgib) - co klimtlte maintainer, does a lot of deving"
-                                      "Device Maintainers and Contributors"
-  "12. Joshie (Joshndroid) - co n1awifi maintainer, used to do tons of dev work for our devices"
-  "13. Shawn Wahi (shawnwahi) - contributes to ld, used to co maintain for n1awifi"
-  "14. Gary Crutcher (gcrutchr) v1a3g maintainer"
-  "15. Joshua Lacruz - n2awifi maintainer"
-                                 "inactive dudes"
-  "16. Ingo (nvertigo) - chagallwifi maintainer"
+      "I bet you're wondering "who are the people in the exynos5420 team?"",
+      "First off, here's the main guys (not in any particular order):",
+  "1.Sean Hoyt (deadman96385) - klimtlte maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
+  "2.Joshua Wiley (Orion116) - co n1awifi maintainer, handles OMS/substratum for LD",
+  "3.Moshe Barash (mosimchah) - co n1awifi maintainer, assistant lead dev for LD",
+  "4.Paul Keith (javelinanddart) - infared blaster maintainer, klimtwifi maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
+  "5.Martin (tincho5588) - ha3g maintainer, lead dev for DeathlyAdiutor, and does tons of kernel work",
+  "6.Tiago Campos (zakooz) - camera maintainer, co n1awifi maintainer, does tons of low level work for all of our devices, if your camera works, thank this guy",
+  "7.Vidir Jonsson (Andmoreagain, sigma-1) - co n1awifi maintainer, does so much crazy low level kernel work that it'll make your head spin",
+  "8.Sinisa (ssehovic,thermskin) - chagalllte maintainer, does lots of work for LD",
+  "9.Thomas Patry (thompatry) - v1awifi, and v2awifi maintainer, he's also our system admin, and does tons of work on the common tree and kernel",
+  "10.Shev (ShevT) - n1a3g maintainer, does a whole lot of kernel work, and saved the n1awifi team on mm",
+  "11.Roberto Gibellini (rgib) - co klimtlte maintainer, does a lot of deving",
+                                      "Device Maintainers and Contributors",
+  "12. Joshie (Joshndroid) - co n1awifi maintainer, used to do tons of dev work for our devices",
+  "13. Shawn Wahi (shawnwahi) - contributes to ld, used to co maintain for n1awifi",
+  "14. Gary Crutcher (gcrutchr) v1a3g maintainer",
+  "15. Joshua Lacruz - n2awifi maintainer",
+                                 "inactive dudes",
+  "16. Ingo (nvertigo) - chagallwifi maintainer",
       
-      "Stay tuned to this site for exciting Exynos5420 news, and developments! :)"
-      "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
+      "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
+      "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)",
     ]
   }
 ]
