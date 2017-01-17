@@ -61,6 +61,7 @@
         a {
             text-decoration: none;
             color: inherit;
+			font-size: 1 px;
         }
     </style>
     <paper-card class="heading">
@@ -71,7 +72,7 @@
             <iron-ajax auto url="../data/devices.json" last-response="{{data}}"></iron-ajax>
             <template is="dom-repeat" items="{{data}}">
                 <paper-card>
-                    <a href="#/device/{{item.devicename}}">
+                    <!--<a href="#/device/{{item.devicename}}">-->
                         <paper-ripple></paper-ripple>
                         <div>
                             <h2 class="title">{{item.manufacturer}} - {{item.devicename}}</h2>
@@ -81,8 +82,14 @@
                             <div class="download-container">
                                 <p>{{item.description}}</p>
                             </div>
+							<div class="download-container">
+                                <font size="2"><u><p><a href="http://download.exynos5420.com/LineageOS-14.1/{{item.devicename}}">LineageOS 14.1</a></p></u></font size>
+                            </div>
+							<div class="download-container">
+                                <font size="2"><u><p><a href="http://download.exynos5420.com/LiquidDeathOS/{{item.devicename}}">LiquidDeathOS N7.1</a></p></u></font size>
+                            </div>
                         </div>
-                    </a>
+                    <!--</a>-->
                 </paper-card>
             </template>
         </template>
