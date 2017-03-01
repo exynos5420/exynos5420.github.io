@@ -25,7 +25,7 @@
     "img":"https://github.com/javelinanddart.png",
     "username":"javelinanddart",
     "location":"USA",
-    "position":"Developer and Device Maintainer klimtwifi (SM-T700)"
+    "position":"Developer"
   },
   {
     "name":"Roberto Gibellini",
@@ -66,8 +66,15 @@
     "name":"Tiago Campos",
     "img":"https://github.com/zakooz.png",
     "username":"zakooz",
-    "location":"USA",
+    "location":"Portugal",
     "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Darragh McGee",
+    "img":"https://github.com/DarkExistence.png",
+    "username":"DarkExistence",
+    "location":"Ireland",
+    "position":"Developer and Device Maintainer chagallwifi (SM-T800)"
   },
   {
     "name":"Vidir Jonsson",
