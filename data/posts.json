@@ -1,5 +1,20 @@
 [
   {
+    "title": "Exynos5420 ROM's Second Post",
+    "date": "Wednesday, 1 March, 2017",
+    "content": [
+      "Hello Cyberspace!",
+          "",
+      "*So much has happended since our last post, here's a summary:",
+      "*1. we got a build server which we are using for LD and lineage",
+      "*2. n1awifi, chagallwifi, and klimtwifi now have have official lineage 14.1",
+      "*3. Darragh McGee (DarkExistence) has joined our team",
+      "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
+      "",
+	  "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
+	  ]
+  },
+  {
     "title": "Exynos5420 ROM's First Post",
     "date": "Saturday, 31 December, 2016",
     "content": [
@@ -10,10 +25,10 @@
       "First off, here's the main guys (not in any particular order):",
 	  "",
 	  "#### Core team",
-	  "* Sean Hoyt (deadman96385) - klimtlte maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
+	  "* Sean Hoyt (deadman96385) - klimtlte,and klimtwifi maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
       "* Joshua Wiley (Orion116) - co n1awifi maintainer, handles OMS/substratum for LD",
-      "* Moshe Barash (mosimchah) - co n1awifi maintainer, assistant lead dev for LD",
-      "* Paul Keith (javelinanddart) - infared blaster maintainer, klimtwifi maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
+      "* Moshe Barash (mosimchah) - co n1awifi maintainer, co lead dev for LD",
+      "* Paul Keith (javelinanddart) - infared blaster maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
       "* Martin (tincho5588) - ha3g maintainer, lead dev for DeathlyAdiutor, and does tons of kernel work",
       "* Tiago Campos (zakooz) - camera maintainer, co n1awifi maintainer, does tons of low level work for all of our devices, if your camera works, thank this guy",
       "* Vidir Jonsson (Andmoreagain, sigma-1) - co n1awifi maintainer, does so much crazy low level kernel work that it'll make your head spin",
@@ -21,6 +36,7 @@
       "* Thomas Patry (thompatry) - v1awifi, and v2awifi maintainer, he's also our system admin, and does tons of work on the common tree and kernel",
       "* Shev (ShevT) - n1a3g maintainer, does a whole lot of kernel work, and saved the n1awifi team on mm",
       "* Roberto Gibellini (rgib) - co klimtlte maintainer, does a lot of deving",
+      "* Darragh McGee (DarkExistence) - chagallwifi maintainer, helps out with LD"
       "",
 	  "#### Device Maintainers and Contributors",
       "* Joshie (Joshndroid) - co n1awifi maintainer, used to do tons of dev work for our devices",
