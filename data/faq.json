@@ -32,7 +32,7 @@
   {
     "title":"I really like Exynos5420 Roms, How can I contribute?",
     "content": [
-    "We're an open source project so if you have any coding experience you can make changes, add features, fix bugs and submit them to our [gerrit.](http://review.exynos5420.org/)",
+    "We're an open source project so if you have any coding experience you can make changes, add features, fix bugs and submit them to our [gerrit.](https://review.exynos5420.com/)",
     "",
     "If you don't have any coding experience, You can help by sharing the word or [donating](https://goo.gl/ZZA2AT) to our project.",
     "The donated money covers our server costs and gets us new devices to develop for and add to our officially supported devices"
