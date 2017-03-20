@@ -5,15 +5,15 @@
     "content": [
       "Hello Cyberspace!",
           "",
-      "*Here's a summary of what we've been up to lately:",
-      "*1. Soon we are going to redo LD from the ground up",
-      "*2. LD now has full support for the new gpu driver",
-      "*3. Sean has aquired a chagalltetmo and is starting to work his magic on it",
-      "*4. n1awifi now has full support for the LP bootloader (about time right x))",
+          "*Here's a summary of what we've been up to lately:",
+      "* 1. Soon we are going to redo LD from the ground up",
+      "* 2. LD now has full support for the new gpu driver",
+      "* 3. Sean has aquired a chagallltetmo and is starting to work his magic on it",
+      "* 4. n1awifi now has full support for the LP bootloader (about time right x))",
       "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
       "",
-	  "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
-	  ]
+          "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
+          ]
   },
   {
     "title": "Exynos5420 ROM's Second Post",
@@ -21,27 +21,27 @@
     "content": [
       "Hello Cyberspace!",
           "",
-      "*So much has happended since our last post, here's a summary:",
-      "*1. we got a build server which we are using for LD and lineage",
-      "*2. n1awifi, and klimtwifi now have have official lineage 14.1",
-      "*3. Darragh McGee (DarkExistence) has joined our team",
+          "* So much has happended since our last post, here's a summary:",
+      "* 1. we got a build server which we are using for LD and lineage",
+      "* 2. n1awifi, and klimtwifi now have have official lineage 14.1",
+      "* 3. Darragh McGee (DarkExistence) has joined our team",
       "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
       "",
-	  "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
-	  ]
+          "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
+          ]
   },
   {
     "title": "Exynos5420 ROM's First Post",
     "date": "Saturday, 31 December, 2016",
     "content": [
       "Hello Cyberspace!",
-	  "",
+          "",
       "I bet you're wondering who are the people in the Exynos5420 Team?",
-	  "",
+          "",
       "First off, here's the main guys (not in any particular order):",
-	  "",
-	  "#### Core team",
-	  "* Sean Hoyt (deadman96385) - chagalltetmo, klimtlte,and klimtwifi maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
+          "",
+          "#### Core team",
+          "* Sean Hoyt (deadman96385) - chagallltetmo, klimtlte,and klimtwifi maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
       "* Joshua Wiley (Orion116) - co n1awifi maintainer, handles OMS/substratum for LD",
       "* Moshe Barash (mosimchah) - co n1awifi maintainer, co lead dev for LD",
       "* Paul Keith (javelinanddart) - infared blaster maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
@@ -54,18 +54,18 @@
       "* Roberto Gibellini (rgib) - co klimtlte maintainer",
       "* Darragh McGee (DarkExistence) - chagallwifi maintainer, helps out with LD",
       "",
-	  "#### Device Maintainers and Contributors",
+          "#### Device Maintainers and Contributors",
       "* Joshie (Joshndroid) - co n1awifi maintainer, used to do tons of dev work for our devices",
       "* Shawn Wahi (shawnwahi) - contributes to ld, co n1awifi maintainer",
       "* Gary Crutcher (gcrutchr) v1a3g maintainer",
       "* Joshua Lacruz - n2awifi maintainer",
       "",
-	  "#### Former/Inactive members",
+          "#### Former/Inactive members",
       "* Ingo (nvertigo) - chagallwifi maintainer",
       "",
       "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
       "",
-	  "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
-	  ]
+          "Peace Out ( •_•) ( •_•)>⌐■-■ (⌐■_■)"
+          ]
   }
 ]
