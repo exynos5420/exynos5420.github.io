@@ -1,20 +1,20 @@
 [
   {
-    "name":"Joshua (Wiley)",
+    "name":"Joshua Wiley",
     "img":"https://github.com/orion116.png",
     "username":"orion116",
     "location":"USA",
     "position":"Developer and Device Maintainer n1awifi (SM-P600)"
   },
   {
-    "name":"Martin",
+    "name":"Martin Bouchet",
     "img":"https://github.com/tincho5588.png",
     "username":"tincho5588",
     "location":"Argentina",
     "position":"Developer and Device Maintainer ha3g (N900)"
   },
   {
-    "name":"Moshe",
+    "name":"Moshe Barash",
     "img":"https://github.com/mosimchah.png",
     "username":"mosimchah",
     "location":"USA",
@@ -39,7 +39,7 @@
     "img":"https://github.com/deadman96385.png",
     "username":"deadman96385",
     "location":"USA",
-    "position":"Lead Developer and Device Maintainer klimtlte (SM-T705)"
+    "position":"Lead Developer and Device Maintainer klimtlte (SM-T705), klimtwifi (SM-T700), and chagallltetmo (SM-T807T)"
   },
   {
     "name":"Shev",
@@ -51,7 +51,7 @@
   {
     "name":"Sinisa",
     "img":"https://github.com/ssehovic.png",
-    "username":"ssehovic",
+    "username":"ssehovic, thermskin",
     "location":"Croatia",
     "position":"Developer and Device Maintainer chagalllte (SM-T805)"
   },
@@ -77,9 +77,9 @@
     "position":"Developer and Device Maintainer chagallwifi (SM-T800)"
   },
   {
-    "name":"Vidir Jonsson",
+    "name":"Víðir Jónsson",
     "img":"https://github.com/sigma-1.png",
-    "username":"sigma-1",
+    "username":"sigma-1, Andmoreagain",
     "location":"Iceland",
     "position":"Kernel Developer and Device Maintainer n1awifi (SM-P600)"
   }
