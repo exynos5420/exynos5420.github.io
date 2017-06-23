@@ -52,7 +52,7 @@ core-animated-pages
 .main-toolbar
 {
     background: url('../images/toolbar.png') center;
-    background-size: cover;
+    background-size: contain;
     color: #00000;
     box-shadow: 0 5px 6px -3px rgba(0, 0, 0, 0.4);
 }
