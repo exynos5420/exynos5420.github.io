@@ -1,5 +1,19 @@
 [
   {
+    "title": "Team Exynos5420: Big News!",
+    "date": "Saturday, 24 June, 2017",
+    "content": [
+      "Hello World, again!",
+      "",
+      "As was mentioned in the previous post I would announce the teams new ROM as soon as we had anything to share. Well, we do. We have \rcontacted Roger Truttmann (Roger.T) to make us some graphics for our new ROM. Wait? Have a told you guys what the name of the ROM is yet? I \rguess I haven't:p As a team one night we were discussing names for our brand new ROM. Sean suggested Echo OS and Martin suggested Full Moon OS. \rNow we had a problem;) We liked both names, so we discussed which name was easier to market and again we were at a stalemate. Wiley suggested a \rcombination of the two names, Echoing Moon OS (EMOS). We all like that name and it took the best parts of the two original ideas and combined \rthem into a great name.",
+      "",
+      "Some maybe wondering why we decided to make another ROM. Well, we were not happy with how LD ended up and it did not accomplish what we \rwanted. So we decided to go another route this time. We are going to start with AOSP and add CAF on top just like how Dirty Unicorn (DU) handles \rCAF. This will allow us to easily added QCOM devices later on after we get the ROM stable for Exynos devices. Speaking of CAF devices. Darragh and \rWiley both got OP5's so you can count on that device being supported;)",
+      "",
+      "#StayDeadly",
+      "Orion116 & Team Exynos5420"
+      ]
+  },
+  {
     "title": "Team Exynos5420: New Beginnings",
     "date": "Monday, 19 June, 2017",
     "content": [
@@ -25,7 +39,7 @@
       "*Here's a summary of what we've been up to lately:",
       "* Soon we are going to redo LD from the ground up",
       "* LD now has full support for the new gpu driver",
-      "* Sean has aquired a chagallltetmo and is starting to work his magic on it",
+      "* Sean has acquired a chagallltetmo and is starting to work his magic on it",
       "* n1awifi now has full support for the LP bootloader (about time right x))",
       "",
       "Stay tuned to this site for exciting Exynos5420 news, and developments! :)",
@@ -39,7 +53,7 @@
     "content": [
       "Hello Cyberspace!",
       "",
-      "* So much has happended since our last post, here's a summary:",
+      "* So much has happened since our last post, here's a summary:",
       "* we got a build server which we are using for LD and lineage",
       "* n1awifi, and klimtwifi now have have official lineage 14.1",
       "* Darragh McGee (DarkExistence) has joined our team",
@@ -63,7 +77,7 @@
       "* Sean Hoyt (deadman96385) - chagallltetmo, klimtlte,and klimtwifi maintainer, Deathly Kernel Lead dev, and the lead developer of LiquidDeathOS, also was the Lead dev of LiquidSmooth",
       "* Joshua Wiley (Orion116) - co n1awifi maintainer, handles OMS/substratum for LD",
       "* Moshe Barash (mosimchah) - co n1awifi maintainer, co lead dev for LD",
-      "* Paul Keith (javelinanddart) - infared blaster maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
+      "* Paul Keith (javelinanddart) - infrared blaster maintainer, Great dev, works on tons of stuff, has tons of knowledge to share",
       "* Martin (tincho5588) - ha3g maintainer, lead dev for DeathlyAdiutor, and does tons of kernel work",
       "* Tiago Campos (zakooz) - camera maintainer, co n1awifi maintainer, does tons of low level work for all of our devices, if your camera works, thank this guy",
       "* Vidir Jonsson (Andmoreagain, sigma-1) - co n1awifi maintainer, does so much crazy low level kernel work that it'll make your head spin",
