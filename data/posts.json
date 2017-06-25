@@ -10,7 +10,7 @@
       "Some maybe wondering why we decided to make another ROM. Well, we were not happy with how LD ended up and it did not accomplish what we \rwanted. So we decided to go another route this time. We are going to start with AOSP and add CAF on top just like how Dirty Unicorn (DU) handles \rCAF. This will allow us to easily added QCOM devices later on after we get the ROM stable for Exynos devices. Speaking of CAF devices. Darragh and \rWiley both got OP5's so you can count on that device being supported;)",
       "",
       "#StayDeadly",
-      "Orion116 & Team Exynos5420"
+      "\rOrion116 & Team Exynos5420"
       ]
   },
   {
