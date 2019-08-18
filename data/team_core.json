@@ -75,5 +75,12 @@
     "username":"sigma-1, Andmoreagain",
     "location":"Iceland",
     "position":"Kernel Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Vasyl Gello",
+    "img":"https://github.com/basilgello.png",
+    "username":"basilgello",
+    "location":"Europe",
+    "position":"Developer, RIL, and Kernel"
   }
 ]
