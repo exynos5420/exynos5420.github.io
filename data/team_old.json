@@ -1,5 +1,33 @@
 [
   {
+    "name":"Tiago Campos",
+    "img":"https://github.com/zakooz.png",
+    "username":"zakooz",
+    "location":"Portugal",
+    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Víðir Jónsson",
+    "img":"https://github.com/sigma-1.png",
+    "username":"sigma-1, Andmoreagain",
+    "location":"Iceland",
+    "position":"Kernel Developer and Device Maintainer n1awifi (SM-P600)"
+  },
+  {
+    "name":"Paul Keith",
+    "img":"https://github.com/javelinanddart.png",
+    "username":"javelinanddart",
+    "location":"USA",
+    "position":"Developer"
+  },
+  {
+    "name":"Moshe Barash",
+    "img":"https://github.com/mosimchah.png",
+    "username":"mosimchah",
+    "location":"USA",
+    "position":"Device Maintainer, n1awifi (SM-P600)"
+  },
+  {
     "name": "Ingo",
     "img": "https://github.com/nvertigo.png",
     "username": "nvertigo",
