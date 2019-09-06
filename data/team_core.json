@@ -1,31 +1,10 @@
 [
   {
-    "name":"Joshua Wiley",
-    "img":"https://github.com/orion116.png",
-    "username":"orion116",
-    "location":"USA",
-    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
-  },
-  {
     "name":"Martin Bouchet",
     "img":"https://github.com/tincho5588.png",
     "username":"tincho5588",
     "location":"Argentina",
     "position":"Developer and Device Maintainer ha3g (N900)"
-  },
-  {
-    "name":"Paul Keith",
-    "img":"https://github.com/javelinanddart.png",
-    "username":"javelinanddart",
-    "location":"USA",
-    "position":"Developer"
-  },
-  {
-    "name":"Roberto Gibellini",
-    "img":"https://github.com/rgib.png",
-    "username":"rgib",
-    "location":"Italy",
-    "position":"Developer and Device Maintainer klimtlte (SM-T705)"
   },
   {
     "name":"Sean Hoyt",
@@ -56,25 +35,11 @@
     "position":"System Administrator, Developer, and Device Maintainer v1awifi (SM-P900) and v2awifi (SM-T900)"
   },
   {
-    "name":"Tiago Campos",
-    "img":"https://github.com/zakooz.png",
-    "username":"zakooz",
-    "location":"Portugal",
-    "position":"Developer and Device Maintainer n1awifi (SM-P600)"
-  },
-  {
     "name":"Darragh McGee",
     "img":"https://github.com/DarkExistence.png",
     "username":"DarkExistence",
     "location":"Ireland",
     "position":"Developer and Device Maintainer chagallwifi (SM-T800)"
-  },
-  {
-    "name":"Víðir Jónsson",
-    "img":"https://github.com/sigma-1.png",
-    "username":"sigma-1, Andmoreagain",
-    "location":"Iceland",
-    "position":"Kernel Developer and Device Maintainer n1awifi (SM-P600)"
   },
   {
     "name":"Vasyl Gello",
